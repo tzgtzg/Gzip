@@ -42,3 +42,7 @@ cc.log("str    ", str);
 测试 输出 数据
 str     {"data":{"channelType":1,"head":"500001","level":3,"msg":"fasdfa","nickname":"ä¸å®å®å®","senderId":28,"time":1543974120817},"main":0,"sub":0}
 wbSocket.js:112 str {"data":{"channelType":1,"head":"500001","level":3,"msg":"fasdfa","nickname":"上官安安","senderId":28,"time":1543974120817},"main":0,"sub":0}
+
+
+参考：
+https://blog.csdn.net/qq_35713752/article/details/82079629
